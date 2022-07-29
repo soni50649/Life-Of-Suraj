@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
 
 #header, button{
-    background-color: #333;
+    background-color: #ffbd00;
     overflow: hidden;
     font-family: 'Raleway', sans-serif;
 }
@@ -21,13 +21,13 @@
   }
 
   #header a#about, a#life, a#education, a#experience, a#workExperience, a#funAndGames {
-    background-color: #83aa04;
-    color: white;
+    background-color: #ff5400;
+    color: black;
   }
 
   body {
    
-    background-color: white;
+    background-color: #ffbd00;
     color: black;
     
   }
@@ -42,6 +42,10 @@
     max-width: fit-content;
     font-size: large;
     font-family: 'Raleway', sans-serif;
+  }
+
+  img{
+    border-radius: 10px;
   }
   
   .dark-mode {
