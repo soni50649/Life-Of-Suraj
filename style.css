@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
+
 #header, button{
     background-color: #333;
     overflow: hidden;
+    font-family: 'Raleway', sans-serif;
 }
 
 #header a, button {
@@ -27,6 +30,18 @@
     background-color: white;
     color: black;
     
+  }
+
+  h1, h2{
+    line-height: 1.25;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  p, ul, ol{
+    line-height: 1.5;
+    max-width: fit-content;
+    font-size: large;
+    font-family: 'Raleway', sans-serif;
   }
   
   .dark-mode {
