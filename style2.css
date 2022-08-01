@@ -1,0 +1,30 @@
+.quiz-container{
+    box-sizing: border-box;
+    border-color: black;
+    font-weight: bolder;
+    background-image: url(https://www.easy-drawings-and-sketches.com/images/how-to-draw-doraemon09.jpg);
+    opacity: 0.85;
+    background-size: 500px 400px;
+    width: 50%;
+    padding: 50px;
+    border-radius: 10px;
+    border-style: dashed;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#submit{
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: #ffbd00;
+}
+
+h2, ul{
+    border-style: double;
+    border-radius: 10px;
+    background-size: 500px 400px;
+    width: 50%;
+    padding: 50px;
+    
+}
