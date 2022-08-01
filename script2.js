@@ -39,6 +39,22 @@ const quizData = [
         d: "France",
         correct: "d",
     },
+    {
+        question: "What gives out cool air but is not a fan?",
+        a: "Ceiling fan",
+        b: "A lover",
+        c: "Air conditioner",
+        d: "The outside",
+        correct: "c",
+    },
+    {
+        question: "What anime character do you currently see in the background?",
+        a: "Doraemon",
+        b: "Pikachu",
+        c: "Timon",
+        d: "Naruto",
+        correct: "a",
+    },
 
 
 ];
